@@ -70,50 +70,24 @@ It also incorporates exception handling to validate user inputs and prevent inva
 ## 📐 Mathematical Formulas Used
 
 ### Rectangle
-
-\[
-\text{Area} = l \times b
-\]
-
-\[
-\text{Perimeter} = 2(l+b)
-\]
+- **Area** = Length × Breadth
+- **Perimeter** = 2 × (Length + Breadth)
 
 ### Circle
-
-\[
-\text{Area} = \pi r^2
-\]
-
-\[
-\text{Circumference} = 2\pi r
-\]
+- **Area** = π × Radius × Radius
+- **Circumference** = 2 × π × Radius
 
 ### Triangle
+- **Perimeter** = a + b + c
 
-\[
-\text{Perimeter} = a+b+c
-\]
+Using **Heron's Formula**:
 
-Using Heron's Formula:
-
-\[
-s = \frac{a+b+c}{2}
-\]
-
-\[
-\text{Area} = \sqrt{s(s-a)(s-b)(s-c)}
-\]
+- Semi-perimeter (s) = (a + b + c) / 2
+- **Area** = √[s × (s - a) × (s - b) × (s - c)]
 
 ### Square
-
-\[
-\text{Area} = \text{Side}^2
-\]
-
-\[
-\text{Perimeter} = 4 \times \text{Side}
-\]
+- **Area** = Side × Side
+- **Perimeter** = 4 × Side
 
 ---
 
