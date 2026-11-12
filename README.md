@@ -181,7 +181,7 @@ The project uses C++ exception handling to manage invalid inputs and prevent inc
 ## 📂 Project Structure
 
 ```text
-Shape-Management-System/
+Shape-Management-System-CPP/
 │
 ├── ShapeManagement.cpp
 │
@@ -204,19 +204,19 @@ Shape-Management-System/
 **1. Clone the repository**
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/srxxr4man/Shape-Management-System-CPP.git
 ```
 
 **2. Navigate to the project directory**
 
 ```bash
-cd Shape-Management-System
+cd Shape-Management-System-CPP
 ```
 
 **3. Compile the program**
 
 ```bash
-g++ ShapeManagement.cpp -o ShapeManagement
+g++ Shape_Management_System.cpp -o ShapeManagement
 ```
 
 **4. Run the executable**
